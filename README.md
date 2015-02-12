@@ -1,4 +1,7 @@
 RedBoxBlueBox
 =============
+Made by Kip Crossing using Python Kivy
 
-For Kivy app contest 2014
+
+Run:
+python main.py
